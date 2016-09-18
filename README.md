@@ -1,0 +1,2 @@
+# scrapy_douban_book
+用scrapy做爬虫抓取 豆瓣读书的书籍信息到本地数据库
